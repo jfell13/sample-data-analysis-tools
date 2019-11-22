@@ -3,7 +3,7 @@ V1.0 Initial Release
 
 [![DOI](https://zenodo.org/badge/222490027.svg)](https://zenodo.org/badge/latestdoi/222490027)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jfell13/sample-data-analysis-tools/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.3551173/)
 
 Jupyter notebooks to help with Rosetta data analysis.
 
