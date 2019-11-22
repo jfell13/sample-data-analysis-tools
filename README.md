@@ -1,6 +1,8 @@
 # sample-data-analysis-tools
 V1.0 Initial Release
 
+<a href="https://zenodo.org/badge/latestdoi/222490027"><img src="https://zenodo.org/badge/222490027.svg" alt="DOI"></a>
+
 [![DOI](https://zenodo.org/badge/222490027.svg)](https://zenodo.org/badge/latestdoi/222490027)
 
 Jupyter notebooks to help with Rosetta data analysis.
